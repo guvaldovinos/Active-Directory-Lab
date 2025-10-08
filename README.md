@@ -38,7 +38,8 @@
    **Purpose:** Confirms the environment setup.  
 
 2. **Static IP Configuration**  
-   🌐 *Screenshot of your Network Adapter IPv4 settings (showing your static IP, subnet, gateway).*  
+   🌐  <img width="1920" height="964" alt="Windows Server 2016 - VMware Workstation 10_7_2025 9_20_08 PM" src="https://github.com/user-attachments/assets/d8967727-9014-4e2d-81b0-dac0861b871c" />
+
    **Purpose:** Shows understanding of basic networking and configuration.  
 
 3. **AD DS Role Installation in Server Manager**  
