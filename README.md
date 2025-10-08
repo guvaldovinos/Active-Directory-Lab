@@ -5,24 +5,31 @@
 <p>This lab involved setting up Windows Server 2016 in VMware Workstation and installing Active Directory Domain Services (AD DS) to create a functional domain environment. This is the foundation for future labs involving user managerment, Group Policy, and network configuration.  </p>
 <br />
 
-<h2>🖥️ Environment</h2>
+## 🖥️ Environment
+- **Virtualization:** VMware Workstation Pro  
+- **Operating System:** Windows Server 2016 Standard (Desktop Experience)  
+- **Network Mode:** NAT (Static IP assigned)  
 
--**Virtualization:** VMware Workstation Pro
--**Operating System:** Windows Server 2016 Standard (Desktop Experience)
--**Network Mode:** NAT (Static IP assigned)
+---
 
-<h2>⚙️ Steps Completed </h2>
-1. Created a new VM in VMware and installed Windows Server 2016. 
-2. Configured a **static IP address**</b>
-3. Installed **Active Directory Domain Services** through Server Manager. </b>
-4. Promoted the server to a **Domain Controller**</b>
-5. Restarted and verified that the server successfully joined the new domain. </b>
+## ⚙️ Steps Completed
+1. Created a new VM in VMware and installed Windows Server 2016.  
+2. Configured a **static IP address**.  
+3. Installed **Active Directory Domain Services (AD DS)** through Server Manager.  
+4. Promoted the server to a **Domain Controller**.  
+5. Restarted and verified that the server successfully joined the new domain.  
 
-<h2>🧩 Key Skills Demonstrated </h2>
--Installing and configuring Windows Server 2016 
--Setting up Active Directory Domain Services (AD DS)
--Promoting a server to Domain Controller   
--Configuring static IP 
--Understanding basic networking in VMware 
- 📸 Screenshots / Video
+---
+
+## 🧩 Key Skills Demonstrated
+- Installing and configuring Windows Server 2016  
+- Setting up Active Directory Domain Services (AD DS)  
+- Promoting a server to Domain Controller  
+- Configuring static IP  
+- Understanding basic networking in VMware  
+
+---
+
+## 📸 Screenshots / Video
+*(Add your screenshots or placeholder video link here)*  
 
