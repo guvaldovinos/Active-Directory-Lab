@@ -33,6 +33,8 @@
 ## 📸 Screenshots / Video
 1. **VMware Setup Screen**  
    🖥️   
+<img width="1907" height="883" alt="Media Player 10_7_2025 9_02_57 PM" src="https://github.com/user-attachments/assets/fc9646ac-2626-4b8b-81ed-1f12995823dd" />
+
    **Purpose:** Confirms the environment setup.  
 
 2. **Static IP Configuration**  
