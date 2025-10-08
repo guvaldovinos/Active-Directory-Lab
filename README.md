@@ -43,7 +43,8 @@
    **Purpose:** Shows understanding of basic networking and configuration.  
 
 3. **AD DS Role Installation in Server Manager**  
-   ⚙️ *Screenshot from the “Add Roles and Features Wizard” where AD DS is selected.*  
+   ⚙️   <img width="1490" height="795" alt="Media Player 10_7_2025 9_31_26 PM" src="https://github.com/user-attachments/assets/0b93a91e-e6e9-4966-804d-9b6da025f0bf" />
+
    **Purpose:** Demonstrates the actual AD DS installation step.  
 
 4. **Promoting the Server to Domain Controller**  
