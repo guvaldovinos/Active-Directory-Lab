@@ -31,5 +31,24 @@
 ---
 
 ## 📸 Screenshots / Video
+1. **VMware Setup Screen**  
+   🖥️   
+   **Purpose:** Confirms the environment setup.  
+
+2. **Static IP Configuration**  
+   🌐 *Screenshot of your Network Adapter IPv4 settings (showing your static IP, subnet, gateway).*  
+   **Purpose:** Shows understanding of basic networking and configuration.  
+
+3. **AD DS Role Installation in Server Manager**  
+   ⚙️ *Screenshot from the “Add Roles and Features Wizard” where AD DS is selected.*  
+   **Purpose:** Demonstrates the actual AD DS installation step.  
+
+4. **Promoting the Server to Domain Controller**  
+   🧱 *Screenshot of the “Promote this server to a domain controller” wizard with your domain (e.g., `ietf.local`) visible.*  
+   **Purpose:** Shows you configured the domain properly.  
+
+5. **Server After Reboot / Domain Login Screen**  
+   🔑 *Screenshot showing your domain login (like `IETF\Administrator`) or Server Manager displaying AD DS + DNS roles installed.*  
+   **Purpose:** Confirms successful promotion and completion.  
 *(Add your screenshots or placeholder video link here)*  
 
